@@ -15,12 +15,12 @@ Microchip LAN8710A PHY Driver
 - Ethernet II
 
 Upper Half driver to multiplex the network stack
-- drivers/net.c contains upper half driver and network stack initialization
+- src/drivers/net.c contains upper half driver and network stack initialization
 
 provides socket system call api for user programs to use
-- example on how to handle the system call is in helper/socketsyscalls.c
+- example on how to handle the system call is in src/utils/socketsyscalls.c
 
-test/ contains example program for a socket chat
+tests/ contains example program for a socket chat
 
 ## Examples
 
