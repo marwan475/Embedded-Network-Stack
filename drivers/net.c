@@ -9,7 +9,7 @@
  * This file contains the upper half driver code to use 
  * Network capabilities of the BeagleBone Black
  * 
- * - BuddyOS Upper Half Network Driver
+ * - Upper Half Network Driver
  * 
  * Author: Marwan Mostafa 
  *
