@@ -2,13 +2,19 @@
 
 UDP network stack and ethernet driver for Beaglebone Black
 
-### Supported protocols
+AM335x Sitara™ Processors Common Platform Ethernet Switch Driver
+Microchip LAN8710A PHY Driver
+
+### Network Stack Supported protocols
 - Sockets
 - UDP
 - ICMP
 - IPv4
 - ARP
 - Ethernet II
+
+Upper Half driver to multiplex the network stack
+- drivers/net.c contains upper half driver and network stack initialization
 
 provides socket system call api for user programs to use
 - example on how to handle the system call is in helper/socketsyscalls.c
