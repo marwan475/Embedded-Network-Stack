@@ -36,5 +36,7 @@ test/ contains example program for a socket chat
 
 Full Design documentation can be found in docs/NetworkStack.pdf
 
+Notes I took to write the Ethernet driver and Network stack can be found in docs/EthernetNotes.pdf
+
 ![alt text](https://github.com/marwan475/Embedded-Network-Stack/blob/main/docs/Screenshot%202025-04-03%20043002.png)
 
