@@ -9,7 +9,7 @@
  * This file contains the cpsw driver code to use 
  * Network capabilities of the BeagleBone Black
  * 
- * - AM335x Sitara™ Processors Common Platform Switch Driver
+ * - AM335x Sitara™ Processors Common Platform Ethernet Switch Driver
  * 
  * Author: Marwan Mostafa 
  *
