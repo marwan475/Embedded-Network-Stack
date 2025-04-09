@@ -1,6 +1,6 @@
 # Embedded Network Stack
 
-UDP network stack and ethernet driver for Beaglebone Black
+Baremetal UDP Network stack and ethernet driver for Beaglebone Black
 
 AM335x Sitara™ Processors Common Platform Ethernet Switch Driver
 
