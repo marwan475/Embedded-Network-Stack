@@ -34,5 +34,7 @@ test/ contains example program for a socket chat
 
 ## Design
 
+Full Design documentation can be found in docs/NetworkStack.pdf
+
 ![alt text](https://github.com/marwan475/Embedded-Network-Stack/blob/main/docs/Screenshot%202025-04-03%20043002.png)
 
