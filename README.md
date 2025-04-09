@@ -28,7 +28,7 @@ test/ contains example program for a socket chat
 
 ![alt text](https://github.com/marwan475/Embedded-Network-Stack/blob/main/docs/ping.png)
 
-### UDP Socket chat between windows PC and embedded application running the network stack
+### UDP Socket chat between windows PC and embedded OS running the network stack
 
 ![alt text](https://github.com/marwan475/Embedded-Network-Stack/blob/main/docs/schat.png)
 
