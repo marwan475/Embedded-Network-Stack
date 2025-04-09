@@ -11,7 +11,7 @@ UDP network stack and ethernet driver for Beaglebone Black
 - Ethernet II
 
 provides socket system call api for user programs to use
-example on how to handle the system call is in helper/socketsyscalls.c
+- example on how to handle the system call is in helper/socketsyscalls.c
 
 test/ contains example program for a socket chat
 
