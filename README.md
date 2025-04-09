@@ -3,6 +3,7 @@
 UDP network stack and ethernet driver for Beaglebone Black
 
 AM335x Sitara™ Processors Common Platform Ethernet Switch Driver
+
 Microchip LAN8710A PHY Driver
 
 ### Network Stack Supported protocols
